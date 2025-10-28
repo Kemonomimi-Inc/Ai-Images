@@ -7,6 +7,10 @@ Japanese Hiragana
 かずきねこくん
 Japanese Katakana
 カズキネコクン
+Hebrew Jewish:
+קַזוּקִי נֵקוֹ־קוּן
+קזוקי נקו-קון
+קזוקי נקו-קון־קון
 Korean Hangul
 카즈키 네코쿤
 Simplified Chinese

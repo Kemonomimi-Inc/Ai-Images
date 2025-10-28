@@ -9,6 +9,10 @@ Japanese Hiragana
 かずひかきつねむすめちゃん
 Japanese Katakana
 カズヒカキツネムスメチャン
+Hebrew Jewish:
+קַזוּהִיקָה קִיטְסוּנֶה־צָ'אן
+קזוהיקה קיטסונה-צ'אן
+קזוהיקה קיטסונה-צ'אן־צ'אן
 Korean Hangul
 카즈히카 키츠네짱
 Simplified Chinese
