@@ -11,6 +11,8 @@ Japanese Katakana
 カズハナネコムスメチャン
 Hebrew Jewish:
 קַזוּהָאנָה נֵקוֹ־צָ'אן
+Hebrew Yiddish:
+קאַזוהאַנאַ נעקאָ-טשאַנ
 Korean Hangul
 카즈하나 네코짱
 Simplified Chinese
