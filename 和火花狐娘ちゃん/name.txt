@@ -9,9 +9,9 @@ Japanese Hiragana
 かずひかきつねむすめちゃん
 Japanese Katakana
 カズヒカキツネムスメチャン
-Israeli Hebrew:
+Israeli Hebrew
 קַזוּהִיקָה קִיטְסוּנֶה־צָ'אן
-Israeli Yiddish:
+Israeli Yiddish
 קאַזוהיקאַ קיצונע-טשאַנ
 Korean Hangul
 카즈히카 키츠네짱
@@ -19,6 +19,8 @@ Simplified Chinese
 和火花狐娘酱
 Traditional Chinese
 和火花狐娘醬
+Universal Cyrillic
+Кадзухика Кицунэ-чан
 @KitsuneKazuhika
 @KitsuneKazuhikaUwU
 ❤️🇯🇵🦊 🔥🦊
